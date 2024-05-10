@@ -4,7 +4,7 @@
 - Actualmente, estoy explorando stacks de Backend y desarrollando mis primeras APIs para conectar con bases de datos, complementando así mi formación en desarrollo.
   
 - Mi principal objetivo es aprender cada día algo nuevo, consciente de la inmensidad del mundo del desarrollo web.
-  A pesar de los infinitos desafíos y frustraciones que puedas enfrentar en este camino, la satisfacción de ver las cosas funcionar es incomparable.
+  A pesar de los infinitos desafíos que puedas enfrentar en este camino, la satisfacción de ver las cosas funcionar es incomparable.
   Por ello, comparto en mi perfil los proyectos que realizo, con la esperanza de que puedan servir de guía a otros en su propio aprendizaje.
   
 - ⚡ Un poco de humor: ¡Espero que la fuerza me acompañe en la misión de aprender y crecer como desarrollador web!

@@ -16,7 +16,7 @@
 - An enthusiastic web development student in constant search for knowledge to strengthen my training and thus be able to join work teams on challenging projects.
 - Currently, I am exploring Backend stacks and developing my first APIs to connect with databases, thus complementing my training in web development.
   
-- My main goal is to learn something new every day, aware of the vastness of the world of web development. Despite the challenges and frustration you may face along this path, I know that the satisfaction of seeing things work is incomparable. For this reason, I share the projects I carry out on my profile, with the hope that they can serve as a guide for others in their own learning.
+- My main goal is to learn something new every day, aware of the vastness of the world of web development. Despite the challenges you may face along this path, I know that the satisfaction of seeing things work is incomparable. For this reason, I share the projects I carry out on my profile, with the hope that they can serve as a guide for others in their own learning.
   
 
 - ⚡ Fun fact: I hope the force is with me in my mission to learn and grow as a web developer!

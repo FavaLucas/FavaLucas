@@ -1,6 +1,6 @@
 - Hola, soy @FavaLucas.
   
-- Entusiasta estudiante de desarrollo web! En constante búsqueda de conocimientos para fortalecer mi formación y así poder integrarme a equipos de trabajo en proyectos desafiantes.
+- Estudiante de desarrollo web en constante búsqueda de conocimientos para fortalecer mi formación y así poder integrarme a equipos de trabajo en proyectos desafiantes.
 - Actualmente, estoy explorando stacks de Backend y desarrollando mis primeras APIs para conectar con bases de datos, complementando así mi formación en desarrollo.
   
 - Mi principal objetivo es aprender cada día algo nuevo, consciente de la inmensidad del mundo del desarrollo web.

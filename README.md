@@ -1,7 +1,8 @@
 - Hola, soy @FavaLucas.
   
-- Estudiante de desarrollo web en constante búsqueda de conocimientos para fortalecer mi formación y así poder integrarme a equipos de trabajo en proyectos desafiantes.
-- Actualmente, estoy explorando stacks de Backend y desarrollando mis primeras APIs para conectar con bases de datos, complementando así mi formación en desarrollo.
+- Desarrollador Web Full Stack en constante búsqueda de conocimientos para fortalecer mi formación y así poder integrarme a equipos de trabajo en proyectos desafiantes.
+- Revisa mi perfil para encontrar distintos proyectos, podras terminar Dockerizando tu APP y asi conectar tu Frontend + Backend + Nase de datos!
+- Siguiendo así el camino de mi formación en desarrollo.
   
 - Mi principal objetivo es aprender cada día algo nuevo, consciente de la inmensidad del mundo del desarrollo web.
   A pesar de los infinitos desafíos que puedas enfrentar en este camino, la satisfacción de ver las cosas funcionar es incomparable.

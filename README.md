@@ -1,7 +1,7 @@
 - Hola, soy @FavaLucas.
   
 - Desarrollador Web Full Stack en constante búsqueda de conocimientos para fortalecer mi formación y así poder integrarme a equipos de trabajo en proyectos desafiantes.
-- Revisa mi perfil para encontrar distintos proyectos, podras terminar Dockerizando tu APP y asi conectar tu Frontend + Backend + Nase de datos!
+- Revisa mi perfil para encontrar distintos proyectos, podras terminar Dockerizando tu APP y asi conectar tu Frontend + Backend + Base de datos!
 - Siguiendo así el camino de mi formación en desarrollo.
   
 - Mi principal objetivo es aprender cada día algo nuevo, consciente de la inmensidad del mundo del desarrollo web.
